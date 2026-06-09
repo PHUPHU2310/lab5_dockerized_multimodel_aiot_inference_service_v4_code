@@ -255,35 +255,35 @@ docker compose down
 
 ### Health local
 
-![Health Local](https://raw.githubusercontent.com/NGUYENVANDUNG205/LAB-5/main/screenshots/health_local.png)
+![Health Local](lab5_dockerized_multimodel_aiot_inference_service_v4_code/lab5_dockerized_multimodel_aiot_inference_service_v4/screenshots/health_local.png)
 
 ### Swagger Docs local
 
-![Docs Local](https://raw.githubusercontent.com/NGUYENVANDUNG205/LAB-5/main/screenshots/docs_local.png)
+![Docs Local](lab5_dockerized_multimodel_aiot_inference_service_v4_code/lab5_dockerized_multimodel_aiot_inference_service_v4/screenshots/docs_local.png)
 
 ### Upload ảnh local
 
-![Image Demo Local](https://raw.githubusercontent.com/NGUYENVANDUNG205/LAB-5/main/screenshots/image_demo_local.png)
+![Image Demo Local](lab5_dockerized_multimodel_aiot_inference_service_v4_code/lab5_dockerized_multimodel_aiot_inference_service_v4/screenshots/image_demo_local.png)
 
 ### Docker Images
 
-![Docker Images](https://raw.githubusercontent.com/NGUYENVANDUNG205/LAB-5/main/screenshots/docker_images.png)
+![Docker Images](lab5_dockerized_multimodel_aiot_inference_service_v4_code/lab5_dockerized_multimodel_aiot_inference_service_v4/screenshots/docker_images.png)
 
 ### Docker Container Running
 
-![Docker Container Running](https://raw.githubusercontent.com/NGUYENVANDUNG205/LAB-5/main/screenshots/docker_container_running.png)
+![Docker Container Running](lab5_dockerized_multimodel_aiot_inference_service_v4_code/lab5_dockerized_multimodel_aiot_inference_service_v4/screenshots/docker_container_running.png)
 
 ### Docker Logs
 
-![Docker Logs](https://raw.githubusercontent.com/NGUYENVANDUNG205/LAB-5/main/screenshots/docker_logs.png)
+![Docker Logs](lab5_dockerized_multimodel_aiot_inference_service_v4_code/lab5_dockerized_multimodel_aiot_inference_service_v4/screenshots/docker_logs.png)
 
 ### Upload ảnh trong Docker
 
-![Image Demo Docker](https://raw.githubusercontent.com/NGUYENVANDUNG205/LAB-5/main/screenshots/image_demo_docker.png)
+![Image Demo Docker](lab5_dockerized_multimodel_aiot_inference_service_v4_code/lab5_dockerized_multimodel_aiot_inference_service_v4/screenshots/image_demo_docker.png)
 
 ### Docker Compose
 
-![Docker Compose](https://raw.githubusercontent.com/NGUYENVANDUNG205/LAB-5/main/screenshots/docker_compose.png)
+![Docker Compose](lab5_dockerized_multimodel_aiot_inference_service_v4_code/lab5_dockerized_multimodel_aiot_inference_service_v4/screenshots/docker_compose.png)
 
 ## 14. So sánh chạy local và chạy Docker
 
