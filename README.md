@@ -255,7 +255,7 @@ docker compose down
 
 ### Health local
 
-![Health Local](<img width="727" height="424" alt="image" src="https://github.com/user-attachments/assets/9aa6e8cf-7e38-49b8-a346-2ebfb445b2d5" />
+![Health Local](img width="727" height="424" alt="image" src="https://github.com/user-attachments/assets/9aa6e8cf-7e38-49b8-a346-2ebfb445b2d5" 
 )
 
 ### Swagger Docs local
