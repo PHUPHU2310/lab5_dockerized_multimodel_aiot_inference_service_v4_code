@@ -255,35 +255,35 @@ docker compose down
 
 ### Health local
 
-![Health Local](./screenshots/health_local.png)
+![Health Local](screenshots/health_local.png)
 
 ### Swagger Docs local
 
-![Docs Local](./screenshots/docs_local.png)
+![Docs Local](screenshots/docs_local.png)
 
 ### Upload ảnh local
 
-![Image Demo Local](./screenshots/image_demo_local.png)
+![Image Demo Local](screenshots/image_demo_local.png)
 
 ### Docker Images
 
-![Docker Images](./screenshots/docker_images.png)
+![Docker Images](screenshots/docker_images.png)
 
 ### Docker Container Running
 
-![Docker Container](./screenshots/docker_container_running.png)
+![Docker Container Running](screenshots/docker_container_running.png)
 
 ### Docker Logs
 
-![Docker Logs](./screenshots/docker_logs.png)
-
-### Swagger Docs trong Docker
-
-![Docs Docker](./screenshots/docs_docker.png)
+![Docker Logs](screenshots/docker_logs.png)
 
 ### Upload ảnh trong Docker
 
-![Image Demo Docker](./screenshots/image_demo_docker.png)
+![Image Demo Docker](screenshots/image_demo_docker.png)
+
+### Docker Compose
+
+![Docker Compose](screenshots/docker_compose.png)
 
 ## 14. So sánh chạy local và chạy Docker
 
