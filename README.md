@@ -255,35 +255,35 @@ docker compose down
 
 ### Health local
 
-![Health Local](screenshots/health_local.png)
+![Health Local](https://raw.githubusercontent.com/NGUYENVANDUNG205/LAB-5/main/screenshots/health_local.png)
 
 ### Swagger Docs local
 
-![Docs Local](screenshots/docs_local.png)
+![Docs Local](https://raw.githubusercontent.com/NGUYENVANDUNG205/LAB-5/main/screenshots/docs_local.png)
 
 ### Upload ảnh local
 
-![Image Demo Local](screenshots/image_demo_local.png)
+![Image Demo Local](https://raw.githubusercontent.com/NGUYENVANDUNG205/LAB-5/main/screenshots/image_demo_local.png)
 
 ### Docker Images
 
-![Docker Images](screenshots/docker_images.png)
+![Docker Images](https://raw.githubusercontent.com/NGUYENVANDUNG205/LAB-5/main/screenshots/docker_images.png)
 
 ### Docker Container Running
 
-![Docker Container Running](screenshots/docker_container_running.png)
+![Docker Container Running](https://raw.githubusercontent.com/NGUYENVANDUNG205/LAB-5/main/screenshots/docker_container_running.png)
 
 ### Docker Logs
 
-![Docker Logs](screenshots/docker_logs.png)
+![Docker Logs](https://raw.githubusercontent.com/NGUYENVANDUNG205/LAB-5/main/screenshots/docker_logs.png)
 
 ### Upload ảnh trong Docker
 
-![Image Demo Docker](screenshots/image_demo_docker.png)
+![Image Demo Docker](https://raw.githubusercontent.com/NGUYENVANDUNG205/LAB-5/main/screenshots/image_demo_docker.png)
 
 ### Docker Compose
 
-![Docker Compose](screenshots/docker_compose.png)
+![Docker Compose](https://raw.githubusercontent.com/NGUYENVANDUNG205/LAB-5/main/screenshots/docker_compose.png)
 
 ## 14. So sánh chạy local và chạy Docker
 
