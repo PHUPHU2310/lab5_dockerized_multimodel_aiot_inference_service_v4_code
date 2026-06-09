@@ -255,8 +255,8 @@ docker compose down
 
 ### Health local
 
-![Health Local](img width="727" height="424" alt="image" src="https://github.com/user-attachments/assets/9aa6e8cf-7e38-49b8-a346-2ebfb445b2d5" 
-)
+<img width="617" height="424" alt="image" src="https://github.com/user-attachments/assets/f9615ae9-e5e4-4061-89d1-ef614a05c3e6" />
+
 
 ### Swagger Docs local
 
@@ -264,7 +264,8 @@ docker compose down
 
 ### Upload ảnh local
 
-![Image Demo Local](lab5_dockerized_multimodel_aiot_inference_service_v4_code/lab5_dockerized_multimodel_aiot_inference_service_v4/screenshots/image_demo_local.png)
+<img width="345" height="393" alt="image" src="https://github.com/user-attachments/assets/7e16779d-31a6-4c47-8fd0-fbaedd61e21f" />
+
 
 ### Docker Images
 
